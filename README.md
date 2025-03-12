@@ -1,6 +1,9 @@
 # ETL Weather AirFlow 🛫
 
-<h1> Step 1. Creat a folder and install Astro CLI using command - brew install astro </h1>
+<h1> Step 1. Create a folder and install Astro CLI using command - "brew install astro" </h1>
+
+<h1> Step 2. Initialise astro inside the project. Using command - "astro dev init"</h1>
+
 ## 🛠 **Tools Utilised**  
 
 | Tool | Description |
