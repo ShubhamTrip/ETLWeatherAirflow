@@ -1,6 +1,6 @@
 # ETL Weather AirFlow 🛫
 
-
+<h1> Step 1. Creat a folder and install Astro CLI using command - brew install astro </h1>
 ## 🛠 **Tools Utilised**  
 
 | Tool | Description |
